@@ -1,0 +1,1 @@
+# Problema do Caminho Colorido - com SimpleMinCut
